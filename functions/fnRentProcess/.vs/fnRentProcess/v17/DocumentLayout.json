@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\labs\\lab07\\functions\\fnrentprocess\\fnpaymanet\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|solutionrelative:fnpaymanet\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\labs\\lab07\\functions\\fnrentprocess\\fnpaymanet\\paymanetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|solutionrelative:fnpaymanet\\paymanetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96447D12-2A00-46B6-AFA1-3A773421BE4D}|fnSBRentProcess\\fnSBRentProcess.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\labs\\lab07\\functions\\fnrentprocess\\fnsbrentprocess\\model\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96447D12-2A00-46B6-AFA1-3A773421BE4D}|fnSBRentProcess\\fnSBRentProcess.csproj|solutionrelative:fnsbrentprocess\\model\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\labs\\lab07\\functions\\fnrentprocess\\fnpaymanet\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCB4BA67-81CF-4570-8989-305BF95C7470}|fnPaymanet\\fnPaymanet.csproj|solutionrelative:fnpaymanet\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnSBRentProcess\\Model\\Rent.cs",
+              "RelativeDocumentMoniker": "fnSBRentProcess\\Model\\Rent.cs",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnSBRentProcess\\Model\\Rent.cs",
+              "RelativeToolTip": "fnSBRentProcess\\Model\\Rent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:18:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymanetModel.cs",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\PaymanetModel.cs",
+              "RelativeDocumentMoniker": "fnPaymanet\\PaymanetModel.cs",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\PaymanetModel.cs",
+              "RelativeToolTip": "fnPaymanet\\PaymanetModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:24:07.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\local.settings.json",
+              "RelativeDocumentMoniker": "fnPaymanet\\local.settings.json",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\local.settings.json",
+              "RelativeToolTip": "fnPaymanet\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T23:18:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\Function1.cs",
+              "RelativeDocumentMoniker": "fnPaymanet\\Function1.cs",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Labs\\Lab07\\functions\\fnRentProcess\\fnPaymanet\\Function1.cs",
+              "RelativeToolTip": "fnPaymanet\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:18:11.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

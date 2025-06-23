@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "Endpoint=sb:::sb-dev-eastus-hsouza001.servicebus.windows.net:;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=fpl3OkHhPlshu6BsXYIwkGBM:lJs4sn+L+ASbGjJ8Ug=",
+      "dynamicId": null
+    }
+  }
+}

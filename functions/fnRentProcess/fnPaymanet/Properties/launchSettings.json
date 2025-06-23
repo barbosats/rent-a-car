@@ -1,0 +1,15 @@
+{
+  "IsEncripted": false, 
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+      "ServiceBusConnection": "Endpoint=sb://your-servicebus-namespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=your-access-key",
+      "ServiceBusQueue": "payment-queue",
+    },
+    "ConnectionStrings": {
+      "SqlConnection": "Server=your-server.database.windows.net;Database=your-database;User Id=your-username;Password=your-password;"
+    },
+  }
+// This file contains the launch settings for the Azure Functions project.
+// It specifies the environment variables and connection strings needed for local development.
+
